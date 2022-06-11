@@ -1,0 +1,61 @@
+Script started on Sat Jun 11 10:11:36 2022
+command: script -r time-2022-06-11.txt
+Script started, output file is time-2022-06-11.txt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen[0m[27m[24m[Jweisichen@weisichendeMBP ~ % [K[?2004hD ddc Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen[0m[27m[24m[Jweisichen@weisichendeMBP ~ % [K[?2004hccd Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop[0m[27m[24m[Jweisichen@weisichendeMBP Desktop % [K[?2004hccd hw 1[?2004l
+cd: string not in pwd: hw
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop[0m[27m[24m[Jweisichen@weisichendeMBP Desktop % [K[?2004hC ccd HW  "hw 1"[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201[0m[27m[24m[Jweisichen@weisichendeMBP hw 1 % [K[?2004hjjavac [7mCircleStat.java[27m[15D[27mC[27mi[27mr[27mc[27ml[27me[27mS[27mt[27ma[27mt[27m.[27mj[27ma[27mv[27ma[?2004l
+error: file not found: CircleStat.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201[0m[27m[24m[Jweisichen@weisichendeMBP hw 1 % [K[?2004hccd src[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201/src[0m[27m[24m[Jweisichen@weisichendeMBP src % [K[?2004hjjava c [7mCircleStat.java[27m[15D[27mC[27mi[27mr[27mc[27ml[27me[27mS[27mt[27ma[27mt[27m.[27mj[27ma[27mv[27ma[?2004l
+Error: Could not find or load main class c
+Caused by: java.lang.ClassNotFoundException: c
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201/src[0m[27m[24m[Jweisichen@weisichendeMBP src % [K[?2004hjjavac [7mCircleStat.java[27m[15D[27mC[27mi[27mr[27mc[27ml[27me[27mS[27mt[27ma[27mt[27m.[27mj[27ma[27mv[27ma[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201/src[0m[27m[24m[Jweisichen@weisichendeMBP src % [K[?2004hjjava [7mCircleStat.java[27m[15D[27mC[27mi[27mr[27mc[27ml[27me[27mS[27mt[27ma[27mt[27m.[27mj[27ma[27mv[27m     [?2004l
+Please enter the radius for a circle
+5
+When the radius is 5.0 the circumference is 31 and the area is 79
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201/src[0m[27m[24m[Jweisichen@weisichendeMBP src % [K[?2004hjjavac [7mRectangleStat.java[27m[18D[27mR[27me[27mc[27mt[27ma[27mn[27mg[27ml[27me[27mS[27mt[27ma[27mt[27m.[27mj[27ma[27mv[27ma[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201/src[0m[27m[24m[Jweisichen@weisichendeMBP src % [K[?2004hjjava [7mRectangleStat.java[27m[18D[27mR[27me[27mc[27mt[27ma[27mn[27mg[27ml[27me[27mS[27mt[27ma[27mt[27m.[27mj[27ma[27mv[27m     [?2004l
+Please enter lenght of the rectangle
+10
+Please enter weidth of the rectangle
+5
+When one side is 10.0 and the other side is 5.0, the area is 50 and the perimeter is 30.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201/src[0m[27m[24m[Jweisichen@weisichendeMBP src % [K[?2004hjjavac [7mGradeCalculator.java[27m[20D[27mG[27mr[27ma[27md[27me[27mC[27ma[27ml[27mc[27mu[27ml[27ma[27mt[27mo[27mr[27m.[27mj[27ma[27mv[27ma[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201/src[0m[27m[24m[Jweisichen@weisichendeMBP src % [K[?2004hjjava [7mGradeCalculator.java[27m[20D[27mG[27mr[27ma[27md[27me[27mC[27ma[27ml[27mc[27mu[27ml[27ma[27mt[27mo[27mr[27m.[27mj[27ma[27mv[27m     [?2004l
+Please enter HomeWork score (0 - 100)
+90
+Please enter HomeWork percentage (Integer only)
+10
+Please enter CodeLab score (0 - 100)
+85.5
+Please enter CodeLab percentage (your remaining percentage is 90%)
+10
+Please enter Midterm 1 score (0 - 100)
+90
+Please enter Midterm 1 percentage (your remaining percentage is 80%)
+20
+Please enter Midterm 2 score (0 - 100)
+88.5
+Please enter Midterm 2 percentage (your remaining percentage is 60%)
+20
+Please enter Final exam score (0 - 100)
+100
+Please enter Final exam percentage (your remaining percentage is 40%)
+40
+The total score is 93.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://weisichendeMBP/Users/weisichen/Desktop/hw%201/src[0m[27m[24m[Jweisichen@weisichendeMBP src % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is time-2022-06-11.txt
+
+Script done on Sat Jun 11 10:14:31 2022
