@@ -1,0 +1,24 @@
+Script started on Tue Jun 21 22:28:06 2022
+command: script -r script-2022-06-21.log
+Script started, output file is script-2022-06-21.log
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw2/logs[0m[27m[24m[Jwei@WeisideMBP logs % [K[?2004hccd ../[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw2[0m[27m[24m[Jwei@WeisideMBP hw2 % [K[?2004hccd src[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw2/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjavac accounting.a java[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw2/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjava accounting[?2004l
+Report from 4/7 to 04/23
+The total is $67
+The tax is : $5.95
+The Highest price item is #523 at $48
+The Lowest price item is #911 at $0
+Completed reading report : 'report.txt' 
+The generated file name is: 'verify.txt' 
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw2/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is script-2022-06-21.log
+
+Script done on Tue Jun 21 22:28:25 2022

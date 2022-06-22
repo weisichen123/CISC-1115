@@ -1,0 +1,7 @@
+Report from 4/7 to 04/23
+The total is 67
+The tax is : $5.95
+The Highest price item is #523 at $48
+The Lowest price item is #911 at $0
+Completed reading report : 'report.txt' 
+The generated file name is: 'verify.txt' 
