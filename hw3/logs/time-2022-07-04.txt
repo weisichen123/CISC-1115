@@ -1,0 +1,73 @@
+Script started on Mon Jul  4 20:50:07 2022
+command: script -r script-2022-07-04.log
+Script started, output file is script-2022-07-04.log
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hccd program1[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program1[0m[27m[24m[Jwei@WeisideMBP program1 % [K[?2004hjjavac program1.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program1[0m[27m[24m[Jwei@WeisideMBP program1 % [K[?2004hjjava prg ogram1[?2004l
+The factorial of 1 is 1
+The sum of squares is 1
+1 
+
+The factorial of 2 is 2
+The sum of squares is 5
+1 2 
+
+The factorial of 3 is 6
+The sum of squares is 14
+1 2 3 
+
+The factorial of 4 is 24
+The sum of squares is 30
+1 2 3 5 
+
+The factorial of 5 is 120
+The sum of squares is 55
+1 2 3 5 8 
+
+The factorial of 6 is 720
+The sum of squares is 91
+1 2 3 5 8 13 
+
+The factorial of 7 is 5040
+The sum of squares is 140
+1 2 3 5 8 13 21 
+
+The factorial of 8 is 40320
+The sum of squares is 204
+1 2 3 5 8 13 21 34 
+
+The factorial of 9 is 362880
+The sum of squares is 285
+1 2 3 5 8 13 21 34 55 
+
+The factorial of 11 is 39916800
+The sum of squares is 506
+1 2 3 5 8 13 21 34 55 89 144 
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program1[0m[27m[24m[Jwei@WeisideMBP program1 % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hccd program2[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program2[0m[27m[24m[Jwei@WeisideMBP program2 % [K[?2004hjjava  j  jjavac program2.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program2[0m[27m[24m[Jwei@WeisideMBP program2 % [K[?2004hjjava program2[?2004l
+Please enter the corresponding number for a shape
+1.Rectangle
+2.Circle
+2
+Please enter the radius for a circle
+2.5
+When the radius is 2.5 the circumference is 16 and the area is 20
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program2[0m[27m[24m[Jwei@WeisideMBP program2 % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hccd program3[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program3[0m[27m[24m[Jwei@WeisideMBP program3 % [K[?2004hjjavac program3.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program3[0m[27m[24m[Jwei@WeisideMBP program3 % [K[?2004hjjava program3[?2004l
+The age is 22 years old for 1999-07-08
+The age is 23 years old for 1998-07-08
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw3/src/program3[0m[27m[24m[Jwei@WeisideMBP program3 % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is script-2022-07-04.log
+
+Script done on Mon Jul  4 20:51:06 2022
