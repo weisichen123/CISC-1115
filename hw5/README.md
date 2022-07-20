@@ -28,7 +28,7 @@ Subway      123     2
 distance method accept no input parameters, and return in an array that store the distances of each hour for a vehicle.
 
 ## saveAsFile method
-saveAsFile method accepts string as the parameter to name and create the output file, while time, speed as int number and vehicle modle as string. It would print to the output file and terminal of eac vehicle's distance and separate by each hours.
+saveAsFile method accepts string as the parameter to name and create the output file, while time, speed as int number and vehicle modle as string. It would print to the output file and terminal of each vehicle's distance and separate by each hours.
 
 ## Calling the methods 
 To run both distance and aveAsFile method by only calling the saveAsFile method, since distance method was already called in saveAsFile method. 
