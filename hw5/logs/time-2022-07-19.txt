@@ -1,0 +1,70 @@
+Script started on Tue Jul 19 23:32:40 2022
+command: script -r script-2022-07-19.log
+Script started, output file is script-2022-07-19.log
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw5/logs[0m[27m[24m[Jwei@WeisideMBP logs % [K[?2004hccd -- [?2004l
+~/desktop/hw5/logs
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw5/logs[0m[27m[24m[Jwei@WeisideMBP logs % [K[?2004hccd ~[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei[0m[27m[24m[Jwei@WeisideMBP ~ % [K[?2004hccd desktop[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop[0m[27m[24m[Jwei@WeisideMBP desktop % [K[?2004hccd hw5[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw5[0m[27m[24m[Jwei@WeisideMBP hw5 % [K[?2004hccd src[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw5/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjavac hw5.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw5/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjava hw5[?2004l
+Veichle Hour Distance Traveled
+Ferrai   1       1200
+Ferrai   2       2400
+Ferrai   3       3600
+Ferrai   4       4800
+Ferrai   5       6000
+
+Veichle Hour Distance Traveled
+Trunck   1         50
+Trunck   2        100
+Trunck   3        150
+Trunck   4        200
+Trunck   5        250
+Trunck   6        300
+Trunck   7        350
+Trunck   8        400
+
+Veichle Hour Distance Traveled
+Toyota   1        123
+Toyota   2        246
+Toyota   3        369
+Toyota   4        492
+Toyota   5        615
+Toyota   6        738
+
+Veichle Hour Distance Traveled
+Subway   1      12346
+Subway   2      24692
+Subway   3      37038
+Subway   4      49384
+Subway   5      61730
+Subway   6      74076
+Subway   7      86422
+Subway   8      98768
+Subway   9     111114
+Subway  10     123460
+Subway  11     135806
+Subway  12     148152
+Subway  13     160498
+Subway  14     172844
+Subway  15     185190
+Subway  16     197536
+Subway  17     209882
+Subway  18     222228
+Subway  19     234574
+Subway  20     246920
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw5/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004heexirt[?2004l
+zsh: command not found: exirt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw5/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004heeee exit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is script-2022-07-19.log
+
+Script done on Tue Jul 19 23:33:08 2022

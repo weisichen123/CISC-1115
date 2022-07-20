@@ -1,0 +1,5 @@
+Vehicle     Speed           Hour
+Ferrai      1200            5
+Trunck      50              8
+Toyota      123             6
+Subway      12346           20

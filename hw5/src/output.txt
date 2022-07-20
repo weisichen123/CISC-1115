@@ -1,0 +1,47 @@
+Veichle Hour Distance Traveled
+Ferrai   1       1200
+Ferrai   2       2400
+Ferrai   3       3600
+Ferrai   4       4800
+Ferrai   5       6000
+
+Veichle Hour Distance Traveled
+Trunck   1         50
+Trunck   2        100
+Trunck   3        150
+Trunck   4        200
+Trunck   5        250
+Trunck   6        300
+Trunck   7        350
+Trunck   8        400
+
+Veichle Hour Distance Traveled
+Toyota   1        123
+Toyota   2        246
+Toyota   3        369
+Toyota   4        492
+Toyota   5        615
+Toyota   6        738
+
+Veichle Hour Distance Traveled
+Subway   1      12346
+Subway   2      24692
+Subway   3      37038
+Subway   4      49384
+Subway   5      61730
+Subway   6      74076
+Subway   7      86422
+Subway   8      98768
+Subway   9     111114
+Subway  10     123460
+Subway  11     135806
+Subway  12     148152
+Subway  13     160498
+Subway  14     172844
+Subway  15     185190
+Subway  16     197536
+Subway  17     209882
+Subway  18     222228
+Subway  19     234574
+Subway  20     246920
+
