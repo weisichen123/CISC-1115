@@ -1,0 +1,24 @@
+Script started on Wed Jul 27 00:01:50 2022
+command: script -r script-2022-07-27.log
+Script started, output file is script-2022-07-27.log
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw6/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjavac hw6[?2004l
+error: Class names, 'hw6', are only accepted if annotation processing is explicitly requested
+1 error
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw6/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjavac hw6.jva  ava[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw6/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjava hw6[?2004l
+Enter a month (1-12)
+2
+Enter a year
+2008
+February 2008 has 29 days 
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/desktop/hw6/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...      12 completed.
+
+Script done, output file is script-2022-07-27.log
+
+Script done on Wed Jul 27 00:02:14 2022
