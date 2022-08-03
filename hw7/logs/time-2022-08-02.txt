@@ -1,0 +1,5415 @@
+Script started on Tue Aug  2 23:33:42 2022
+command: script -r script-2022-08-02.log
+Script started, output file is script-2022-08-02.log
+Restored session: Tue Aug  2 23:33:07 EDT 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw7/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjavac hw7.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw7/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjava hw7[?2004l
+Current Mileage: 1
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 2
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 3
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 4
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 5
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 6
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 7
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 8
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 9
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 10
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 11
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 12
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 13
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 14
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 15
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 16
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 17
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 18
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 19
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 20
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 21
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 22
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 23
+Current Fuel left: 15 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 24
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 25
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 26
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 27
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 28
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 29
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 30
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 31
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 32
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 33
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 34
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 35
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 36
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 37
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 38
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 39
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 40
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 41
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 42
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 43
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 44
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 45
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 46
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 47
+Current Fuel left: 14 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 48
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 49
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 50
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 51
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 52
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 53
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 54
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 55
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 56
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 57
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 58
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 59
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 60
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 61
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 62
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 63
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 64
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 65
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 66
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 67
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 68
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 69
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 70
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 71
+Current Fuel left: 13 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 72
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 73
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 74
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 75
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 76
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 77
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 78
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 79
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 80
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 81
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 82
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 83
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 84
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 85
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 86
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 87
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 88
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 89
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 90
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 91
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 92
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 93
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 94
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 95
+Current Fuel left: 12 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 96
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 97
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 98
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 99
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 100
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 101
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 102
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 103
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 104
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 105
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 106
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 107
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 108
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 109
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 110
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 111
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 112
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 113
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 114
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 115
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 116
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 117
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 118
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 119
+Current Fuel left: 11 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 120
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 121
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 122
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 123
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 124
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 125
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 126
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 127
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 128
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 129
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 130
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 131
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 132
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 133
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 134
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 135
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 136
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 137
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 138
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 139
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 140
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 141
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 142
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 143
+Current Fuel left: 10 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 144
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 145
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 146
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 147
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 148
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 149
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 150
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 151
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 152
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 153
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 154
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 155
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 156
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 157
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 158
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 159
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 160
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 161
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 162
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 163
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 164
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 165
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 166
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 167
+Current Fuel left: 9 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 168
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 169
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 170
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 171
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 172
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 173
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 174
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 175
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 176
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 177
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 178
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 179
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 180
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 181
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 182
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 183
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 184
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 185
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 186
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 187
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 188
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 189
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 190
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 191
+Current Fuel left: 8 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 192
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 193
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 194
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 195
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 196
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 197
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 198
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 199
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 200
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 201
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 202
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 203
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 204
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 205
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 206
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 207
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 208
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 209
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 210
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 211
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 212
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 213
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 214
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 215
+Current Fuel left: 7 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 216
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 217
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 218
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 219
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 220
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 221
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 222
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 223
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 224
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 225
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 226
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 227
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 228
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 229
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 230
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 231
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 232
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 233
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 234
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 235
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 236
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 237
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 238
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 239
+Current Fuel left: 6 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 240
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 241
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 242
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 243
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 244
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 245
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 246
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 247
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 248
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 249
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 250
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 251
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 252
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 253
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 254
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 255
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 256
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 257
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 258
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 259
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 260
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 261
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 262
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 263
+Current Fuel left: 5 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 264
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 265
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 266
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 267
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 268
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 269
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 270
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 271
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 272
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 273
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 274
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 275
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 276
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 277
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 278
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 279
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 280
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 281
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 282
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 283
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 284
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 285
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 286
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 287
+Current Fuel left: 4 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 288
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 289
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 290
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 291
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 292
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 293
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 294
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 295
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 296
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 297
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 298
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 299
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 300
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 301
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 302
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 303
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 304
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 305
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 306
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 307
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 308
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 309
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 310
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 311
+Current Fuel left: 3 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 312
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 313
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 314
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 315
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 316
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 317
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 318
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 319
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 320
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 321
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 322
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 323
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 324
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 325
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 326
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 327
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 328
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 329
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 330
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 331
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 332
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 333
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 334
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 335
+Current Fuel left: 2 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 336
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 337
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 338
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 339
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 340
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 341
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 342
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 343
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 344
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 345
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 346
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 347
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 348
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 349
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 350
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 351
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 352
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 353
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 354
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 355
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 356
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 357
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 358
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 359
+Current Fuel left: 1 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+Current Mileage: 360
+Current Fuel left: 0 gallons
+Accelerating...
+Current speed after first accelerate: 5 miles
+Current speed after second accelerate: 10 miles
+Current speed after third accelerate: 15 miles
+Current speed after fourth accelerate: 20 miles
+Current speed after fifth accelerate: 25 miles
+Braking...
+Current speed after first brake: 20 miles
+Current speed after second brake: 15 miles
+Current speed after third brake: 10 miles
+Current speed after fourth brake: 5 miles
+Current speed after fifth brake: 0 miles
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw7/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is script-2022-08-02.log
+
+Script done on Tue Aug  2 23:33:52 2022
