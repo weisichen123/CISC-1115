@@ -1,0 +1,1 @@
+Three simple calculation programs, that calculate your total grades, the area and perimeter of a rectangle and the circumference and area of a circle, built with Java.
