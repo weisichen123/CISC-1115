@@ -1,0 +1,41 @@
+Script started on Tue Aug  9 23:46:16 2022
+command: script -r script-2022-08-09.log
+Script started, output file is script-2022-08-09.log
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115[0m[27m[24m[Jwei@WeisideMBP cisc-1115 % [K[?2004hccd src[?2004l
+cd: no such file or directory: src
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115[0m[27m[24m[Jwei@WeisideMBP cisc-1115 % [K[?2004hccd s hw8[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw8[0m[27m[24m[Jwei@WeisideMBP hw8 % [K[?2004hccd src[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw8/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjavac c wordcount.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw8/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjava i wordcount input.txt[?2004l
+Number of word by every characters (including symbol and space) : 36
+Number of words by every vocabulary: 8
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw8/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjavac calculator.java[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw8/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004hjjava calculator[?2004l
+Please enter first number (Enter 0 to end the program)
+13
+Please choose an operator: +, -, *, or /
++
+Please enter second number
+7
+13.0 + 7.0 = 20.0
+Please enter first number (Enter 0 to end the program)
+4.2
+Please choose an operator: +, -, *, or /
++1.  
+Please enter second number
+1.7
+4.2 + 1.7 = 5.9
+Please enter first number (Enter 0 to end the program)
+0
+Thank you
+[1m[7m%[27m[1m[0m                                                                                ]7;file://WeisideMBP/Users/wei/cisc-1115/hw8/src[0m[27m[24m[Jwei@WeisideMBP src % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...      10 completed.
+
+Script done, output file is script-2022-08-09.log
+
+Script done on Tue Aug  9 23:47:36 2022
