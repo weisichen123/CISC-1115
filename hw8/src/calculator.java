@@ -34,32 +34,41 @@ public class calculator{
             number2 = sc.nextDouble();
 
 
-            // use switch to 
+            // use switch to check the operator and calculate the result
             switch (operator) {
 
+                // if operator is +, calculate the result, then store into double varibale and out put the result
                 case '+':
                     result = number1 + number2;
                     System.out.println(number1 + " + " + number2 + " = " + result);
+                    // end the swtich loop
                     break;
 
+                // if operator is -, calculate the result, then store into double varibale and out put the result
                 case '-':
                     result = number1 - number2;
                     System.out.println(number1 + " - " + number2 + " = " + result);
+                    // end the swtich loop
                     break;
 
+                // if operator is *, calculate the result, then store into double varibale and out put the result
                 case '*':
                     result = number1 * number2;
                     System.out.println(number1 + " * " + number2 + " = " + result);
+                    // end the swtich loop
                     break;
 
+                // if operator is /, calculate the result, then store into double varibale and out put the result
                 case '/':
                     result = number1 / number2;
                     System.out.println(number1 + " / " + number2 + " = " + result);
+                    // end the swtich loop
                     break;
 
+
+                // if operator is not +, -, * or /, it will let the user re-enter
                 default:
                     System.out.println("Invalid input");
-                    break;
             }
 
         }
